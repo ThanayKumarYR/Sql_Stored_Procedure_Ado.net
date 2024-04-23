@@ -1,0 +1,7 @@
+C:\Users\Thanay\source\repos\Election_StoredProcedures\Election_StoredProcedures\bin\Debug\Election_StoredProcedures.exe.config
+C:\Users\Thanay\source\repos\Election_StoredProcedures\Election_StoredProcedures\bin\Debug\Election_StoredProcedures.exe
+C:\Users\Thanay\source\repos\Election_StoredProcedures\Election_StoredProcedures\bin\Debug\Election_StoredProcedures.pdb
+C:\Users\Thanay\source\repos\Election_StoredProcedures\Election_StoredProcedures\obj\Debug\Election_StoredProcedures.csproj.AssemblyReference.cache
+C:\Users\Thanay\source\repos\Election_StoredProcedures\Election_StoredProcedures\obj\Debug\Election_StoredProcedures.csproj.CoreCompileInputs.cache
+C:\Users\Thanay\source\repos\Election_StoredProcedures\Election_StoredProcedures\obj\Debug\Election_StoredProcedures.exe
+C:\Users\Thanay\source\repos\Election_StoredProcedures\Election_StoredProcedures\obj\Debug\Election_StoredProcedures.pdb
